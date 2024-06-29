@@ -28,7 +28,7 @@ YAPF descended upon the scene like a beacon of hope. Its mission was noble: to t
 I won't even paraphrase how Black describes itself. Here's their unedited description:
 
 ------------------------------------------------------------------------
-![[Pasted image 20240629184559.png | 400]]
+![black](/"Pasted image 20240629184559.png")
 _Black_ is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, _Black_ gives you speed, determinism, and freedom from `pycodestyle` nagging about formatting. You will save time and mental energy for more important matters.
 
 Blackened code looks the same regardless of the project you're reading. Formatting becomes transparent after a while and you can focus on the content instead.
