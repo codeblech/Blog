@@ -1,3 +1,4 @@
+# Just use Black
 After laying your eyes upon the beauty that is PEP 8, you go through a phase of trying out various code formatters - comparing their differences and performance. You nag your friends over their lines being 80 characters long and not breaking off at 79. You can't bear the sight of mathematical operators without whitespaces around them.
 
 However, many developers overlook a crucial point from PEP 8:
